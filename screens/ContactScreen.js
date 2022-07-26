@@ -8,7 +8,7 @@ const ContactScreen = () => {
        wrapperStyle={{margin: 20}}>
       <Card.Title>Contact Information</Card.Title>
       <Card.Divider />
-      <Text style={{ marginBorrom: 10}}>
+      <Text style={{ marginBottom: 10}}>
             1 Nucamp Way{`\n`}
             Seattle, WA 98001{`\n`}
             U.S.A.{`\n`}
